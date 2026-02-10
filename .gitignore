@@ -83,3 +83,8 @@ env/
 .venv/
 __pycache__/
 *.pyc
+
+backend/*
+.backend
+/backend
+backend
